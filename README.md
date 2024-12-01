@@ -33,3 +33,29 @@ This project implements an **image classification model** to distinguish between
 1. Clone the repository:
    ```bash
    git clone https://github.com/ramnaresh-ahi/Image-Classifier.git
+
+2. Navigate to the project directory:
+   \`\`\`bash
+   cd Image-Classifier
+   \`\`\`
+3. Install the required libraries:
+   \`\`\`bash
+   pip install -r requirements.txt
+   \`\`\`
+4. Start the Streamlit app:
+   \`\`\`bash
+   streamlit run str.py
+   \`\`\`
+
+## 📊 Key Features
+- Real-time classification of uploaded images.
+- Simple and interactive web interface using Streamlit.
+- High accuracy achieved using CNN-based architecture.
+
+## 📌 Future Enhancements
+- Expand the dataset with more categories and images.
+- Use transfer learning techniques for improved accuracy.
+- Enhance the Streamlit app with additional features like batch processing.
+
+---
+
